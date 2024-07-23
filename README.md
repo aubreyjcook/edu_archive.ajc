@@ -2,5 +2,5 @@
 
 ## TODOS
 
-<!-- TODO: Create main directory structure. -->
-<!-- TODO: Implement navigation/UI for reviewing edu projects live. -->
+- [ ] **TODO:** Create main directory structure.
+- [ ] **TODO:** Implement navigation/UI for reviewing edu projects live.
